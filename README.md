@@ -13,8 +13,8 @@ Nay, answer me. Stand and unfold yourself.<br>
 ### After step1:<br>
 Who's there?<br>
 Nay, answer me.<br>
-Stand and unfold yourself.<br>
-Things to consider:<br>
+Stand and unfold yourself.<br><br>
+### Things to consider:<br>
 a. Note that sentences end with a period (.) or a question mark (?) or an
 exclamation mark (!). However, sometimes period (.) can be found in the
 middle of a sentence, for example, Ph.D. , Mr. , Mrs. Dr., etc. An
