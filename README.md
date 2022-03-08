@@ -6,11 +6,11 @@ from Act I. The corresponding text file can be found inside the same zipped fold
 What to do?<br>
 1. First mine all the sentences in Act I using regular expressions. Please remove the
 characters’ names. Here is an example: <br>
-Before step1: <br>
+### Before step1: <br>
 BARNARDO Who's there?<br>
 FRANCISCO<br>
 Nay, answer me. Stand and unfold yourself.<br>
-After step1:<br>
+### After step1:<br>
 Who's there?<br>
 Nay, answer me.<br>
 Stand and unfold yourself.<br>
